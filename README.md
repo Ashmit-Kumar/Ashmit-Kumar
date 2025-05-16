@@ -12,9 +12,9 @@
 ---
 
 ### 📫 Connect With Me
-- ✉️ Email: `your.email@example.com` <!-- Replace with your actual email -->
-- 💼 [LinkedIn](https://www.linkedin.com/in/ashmit-kumar/)
-- 🧑‍💻 [Portfolio](https://thinkdeck.site)
+- ✉️ Email: `ashmitkumar1020@gmail.com` <!-- Replace with your actual email -->
+- 💼 [LinkedIn](https://www.linkedin.com/in/ashmitkumar1020/)
+- 🧑‍💻 [Portfolio](https://ashmitkumar.vercel.app/)
 - 📦 [GitHub](https://github.com/Ashmit-Kumar)
 
 ---
