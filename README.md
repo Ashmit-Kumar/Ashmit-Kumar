@@ -97,3 +97,5 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashmit-Kumar&theme=radical" />
 </p>
 
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Ashmit-Kumar.Ashmit-Kumar)
