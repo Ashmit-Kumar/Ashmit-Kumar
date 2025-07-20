@@ -72,3 +72,28 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashmit-Kumar&layout=compact&theme=radical&hide_border=false" width="49%" />
 </div>
 
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ashmit-Kumar&theme=radical&no-frame=true&row=1&column=7&margin-w=10" />
+</p>
+
+---
+
+### 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Ashmit-Kumar&theme=radical&hide_border=false" />
+</p>
+
+---
+
+### 📅 GitHub Contributions
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashmit-Kumar&theme=radical" />
+</p>
+
