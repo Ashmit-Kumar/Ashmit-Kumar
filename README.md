@@ -68,6 +68,7 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ashmit-Kumar&show_icons=true&theme=radical" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashmit-Kumar&layout=compact&theme=radical" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ashmit-Kumar&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=false" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashmit-Kumar&layout=compact&theme=radical&hide_border=false" width="49%" />
 </div>
+
